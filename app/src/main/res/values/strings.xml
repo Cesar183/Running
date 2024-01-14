@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Running</string>
+
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="forgotPassword">Olvidaste tu contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="resetPassword">Enviar Contraseña</string>
+    <string name="invitation">¿Hasta que nivel eres capaz de llegar?</string>
+    <string name="acept">He leido y acepto los</string>
+    <string name="terms">términos y condiciones de uso.</string>
+
+    <string name="empty_email">Debe ingresar un correo electrónico</string>
+    <string name="nvalid_email">Ingrese un correo electrónico valido</string>
+
+    <string name="google">GOOGLE</string>
+    <string name="facebook">FACEBOOK</string>
 </resources>
